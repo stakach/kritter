@@ -1,0 +1,3 @@
+labels and classifier from:
+https://tfhub.dev/google/aiy/vision/classifier/birds_V1/1
+
